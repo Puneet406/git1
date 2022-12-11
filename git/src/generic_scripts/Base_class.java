@@ -15,7 +15,10 @@ public class Base_class implements Framework {
 	   public void open()
 	   {
 		   System.setProperty(key, value);
-		   driver=new FirefoxDriver();
+		   driver=n
+				   
+				   
+				   ew FirefoxDriver();
 		   driver.get(url);
 		   
 	   }
